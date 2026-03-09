@@ -1,0 +1,39 @@
+body{
+font-family: Arial;
+margin:0;
+background: linear-gradient(to right,#ff9a9e,#fad0c4);
+}
+
+header{
+background:#ff5733;
+color:white;
+text-align:center;
+padding:20px;
+}
+
+nav{
+background:#ffbd69;
+text-align:center;
+padding:10px;
+}
+
+nav a{
+margin:15px;
+text-decoration:none;
+font-weight:bold;
+color:black;
+}
+
+.content{
+background:white;
+margin:20px;
+padding:20px;
+border-radius:10px;
+}
+
+footer{
+background:#ff5733;
+color:white;
+text-align:center;
+padding:10px;
+}
